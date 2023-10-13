@@ -4,3 +4,4 @@
 Направление будущей работы: Software Engineer
 Ключевые навыки: С++, C#, Python, Linux, English, Git, SQL
 Хобби: Arduino, Movies, Music, Computer Games, Fiction (rarely)
+Место рождения: город Белгород
